@@ -1,0 +1,15 @@
+{
+  "name": "functions-hydrate",
+  "version": "1.0.0",
+  "description": "A test harness for functions hydrate",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sanity/runtime-cli": "github:sanity-io/runtime-cli#run-569",
+    "vitest": "^3.2.4"
+  }
+}

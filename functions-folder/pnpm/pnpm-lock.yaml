@@ -1,0 +1,33 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@sanity/functions':
+        specifier: ^1.0.3
+        version: 1.0.3
+    devDependencies:
+      '@sanity/blueprints':
+        specifier: 0.1.0
+        version: 0.1.0
+
+packages:
+
+  '@sanity/blueprints@0.1.0':
+    resolution: {integrity: sha512-rC2iqJOsU1Jqw2YYiLqnGHJMr9PFTVVAxxPtjjmL8uETwSS9UR4ozgPNSGM+qudUPgM18NfsZZ1Jrcy3cB8B4Q==}
+    engines: {node: '>=20'}
+
+  '@sanity/functions@1.0.3':
+    resolution: {integrity: sha512-aEDxl52oAmxinHIMwnUhy4sOGzuMH0NY+52GkEpLoK4Nw+2k45lvYIF7tqc8HxwYF9fKVyYaZ4PXOJpgeMn9/g==}
+    engines: {node: '>=20'}
+
+snapshots:
+
+  '@sanity/blueprints@0.1.0': {}
+
+  '@sanity/functions@1.0.3': {}

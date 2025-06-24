@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["index.ts"],"sourcesContent":["import { documentEventHandler } from \"@sanity/functions\";\n\nexport const handler = documentEventHandler(async ({ context, event }) => {\n\tconsole.log(`functions-folder-pnpm-typescript`);\n});\n"],"names":[],"mappings":";AAEO,MAAM,UAAU,qBAAqB,OAAO,EAAE,SAAS,YAAY;AACzE,UAAQ,IAAI,kCAAkC;AAC/C,CAAC;"}
