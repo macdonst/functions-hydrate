@@ -1,0 +1,5 @@
+{
+  "name": "javascript",
+  "type": "module",
+  "main": "index.js"
+}
