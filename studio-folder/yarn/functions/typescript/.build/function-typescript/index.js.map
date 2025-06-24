@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["index.ts"],"sourcesContent":["import { documentEventHandler } from '@sanity/functions'\n\nexport const handler = documentEventHandler(async ({ context, event }) => {\n  console.log(`studio-folder-yarn-typescript`)\n})\n"],"names":[],"mappings":";AAEO,MAAM,UAAU,qBAAqB,OAAO,EAAE,SAAS,YAAY;AACxE,UAAQ,IAAI,+BAA+B;AAC7C,CAAC;"}
